@@ -11,8 +11,9 @@ mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
 ---
 ## Overview
+
 Do you have difficulty finding a great car that you would love to have?
- 
+
 Well, we have built an application for you, specifically this purpose. It will help you by providing details of cars, that match your criteria.
  
 It also lets you download the results, in case you want to print them, or do follow-ups offline.
@@ -20,11 +21,8 @@ It also lets you download the results, in case you want to print them, or do fol
 Read along!
 
 ---
-## How to access and use the app
- 
-You can view the application at
-https://vijaygoel.shinyapps.io/DDR-Assgn-Find-Your-Car/
- 
+## How to use the app
+  
 The left hand navigation provides space to input filters. You can select # of cylinder and class of car through checkboxes. MPG and year of model is provided in sliders.
  
 Once you are done with changing filter ctireria, please click on 'Refine' button. This will change the results you see on right hand side.
@@ -48,3 +46,9 @@ Criteria available to filter from, are:
 - minimum city Miles Per Gallon (MPG),
 - minimum highway MPG and
 - year of model release
+
+---
+## Here is how to access the app
+
+You can view the application at
+https://vijaygoel.shinyapps.io/DDR-Assgn-Find-Your-Car/
